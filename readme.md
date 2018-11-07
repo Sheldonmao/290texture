@@ -32,15 +32,15 @@ Sklearn for other machine learning algorithms.
 Wavelets and signal processing packages: pywt, skimage, 
 
 ## Algorithms:
-DIMENSIONAL REDUCTION:
+__DIMENSIONAL REDUCTION:__
 Wavelets
 Dictionary learning
 PCA
 Finding basis vectors
 Filter bank methods
-UNSUPERVISED LEARNING:
+__UNSUPERVISED LEARNING:__
 Spectral Analysis
-SUPERVISED LEARNING:
+__SUPERVISED LEARNING:__
 Neural Networks
 Multivariate Gaussian
 SVM.
