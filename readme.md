@@ -33,18 +33,18 @@ Wavelets and signal processing packages: pywt, skimage,
 
 ## Algorithms:
 __DIMENSIONAL REDUCTION:__
-Wavelets
-Dictionary learning
-PCA
-Finding basis vectors
+Wavelets / 
+Dictionary learning / 
+PCA / 
+Finding basis vectors / 
 Filter bank methods
 
 __UNSUPERVISED LEARNING:__
 Spectral Analysis
 
 __SUPERVISED LEARNING:__
-Neural Networks
-Multivariate Gaussian
+Neural Networks / 
+Multivariate Gaussian / 
 SVM.
 
 
