@@ -38,8 +38,10 @@ Dictionary learning
 PCA
 Finding basis vectors
 Filter bank methods
+
 __UNSUPERVISED LEARNING:__
 Spectral Analysis
+
 __SUPERVISED LEARNING:__
 Neural Networks
 Multivariate Gaussian
