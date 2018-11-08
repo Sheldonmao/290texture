@@ -52,7 +52,7 @@ SVM.
 https://arxiv.org/pdf/1312.5940.pdf
 http://www.mipg.upenn.edu/yubing/2005ICMLC.pdf
 https://www.sciencedirect.com/science/article/pii/S0262885603000945
-https://www.sciencedirect.com/science/article/pii/S016516840500277X#fig3
+https://www.sciencedirect.com/science/article/pii/S016516840500277X#fig3 
 http://mcl.usc.edu/wp-content/uploads/2014/01/1993-10-Texture-analysis-and-classification-with-tree-structured-wavelet-transform.pdf
 
 ## Resources:
