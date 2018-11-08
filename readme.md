@@ -55,6 +55,12 @@ https://www.sciencedirect.com/science/article/pii/S0262885603000945
 https://www.sciencedirect.com/science/article/pii/S016516840500277X#fig3
 http://mcl.usc.edu/wp-content/uploads/2014/01/1993-10-Texture-analysis-and-classification-with-tree-structured-wavelet-transform.pdf
 
-## Github:
+## Resources:
+__Github:__
 https://github.com/Sheldonmao/290texture
 
+__Colab Notebook:__
+https://drive.google.com/drive/u/1/folders/1hdbGXQ0eggzqA7K2lC54LfuBpoxn9egq
+
+__Data Set__
+https://drive.google.com/drive/u/1/folders/1gP9HUx2ppAG7MTM36WReZYOsR_xkOg2f
